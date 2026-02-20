@@ -20,9 +20,9 @@ Desenvolvedor Full Stack com sólida trajetória na criação de ecossistemas pa
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Mobile** | Flutter, Android SDK, GetX, Material Design 3, Mock Location |
-| **Backend** | Python (Django), PHP (Laravel), Node.js, RESTful APIs |
+| **Backend** | Python (Django), PHP (Laravel), RESTful APIs |
 | **Cloud/DB** | Firebase (Firestore/Auth/Push), MySQL, PostgreSQL |
-| **Ferramentas** | Git, Docker, Linux (Bash), Metodologias Ágeis |
+| **Ferramentas** | Git, Linux (Bash), Metodologias Ágeis |
 
 ---
 
