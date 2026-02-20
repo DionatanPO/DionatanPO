@@ -1,31 +1,62 @@
-# Olá, eu sou o Dionatan Oliveira! 👋
+# 👋 Olá, eu sou o Dionatan Oliveira
 
-Desenvolvedor **Full Stack Senior** focado em soluções de alto impacto para o **Agronegócio (AgTech)** e sistemas de mobilidade. Especialista em **Flutter**, **Android Nativo** e integrações de **Hardware/IoT**.
-
----
-
-### 🚀 O que eu faço:
-* **Mobile Expert:** Desenvolvimento de apps robustos com Flutter e Android Nativo (Java), focados em UX moderno (Material Design 3).
-* **AgTech & IoT:** Experiência real em monitoramento de silos (Smart Secagem), sensores e GPS em campo.
-* **Backend & Cloud:** Criação de APIs escaláveis com Django (Python) e Laravel (PHP), com deploys em servidores Linux.
-* **Conformidade Técnica:** Especialista em sistemas que seguem normas do MAPA (Classificação Vegetal).
-
-### 🛠 Tech Stack:
-- **Linguagens/Frameworks:** Flutter, Android Nativo, Python (Django), PHP (Laravel).
-- **Banco de Dados:** PostgreSQL, MySQL, Firebase Firestore.
-- **Ferramentas:** Git, Docker, Linux (VPS), Metodologias Ágeis.
-
-### 📈 Projetos em Destaque:
-* **Smart Secagem:** Liderança técnica em projeto IoT para o Agro.
-* **G-Grãos:** Automação de laudos técnicos agrícolas (MAPA).
-* **Rondo Move:** Solução de mobilidade urbana com rastreamento em tempo real.
+### **Full Stack Developer | Mobile Specialist (Flutter & Android Native)**
+> 🌾 **AgTech & IoT Expert:** Transformando a complexidade do campo em soluções digitais de alta performance.
 
 ---
 
-### 📫 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@AQUI.com)
+## 🚀 Sobre Mim
+Desenvolvedor Full Stack com sólida trajetória na criação de ecossistemas para o **Agronegócio** e **Mobilidade Urbana**. Minha expertise reside na união entre o mundo físico (Sensores/GPS/IoT) e o digital (Mobile/Cloud), garantindo conformidade com normas governamentais (MAPA) e foco absoluto em **UX moderno (Material Design 3)**.
+
+- 📱 **Mobile:** Especialista em Flutter e Android Nativo (Java).
+- ⚙️ **Backend:** Arquiteto de APIs com Django (Python) e Laravel (PHP).
+- 🛰️ **IoT:** Integração de hardware com software para validação em campo.
+- 🐧 **DevOps:** Deploy e manutenção em servidores Linux (VPS/Hostinger).
 
 ---
 
-> "Transformando a complexidade do campo em tecnologia simples e eficiente."
+## 🛠 Toolbox Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Mobile** | Flutter, Android SDK, GetX, Material Design 3, Mock Location |
+| **Backend** | Python (Django), PHP (Laravel), Node.js, RESTful APIs |
+| **Cloud/DB** | Firebase (Firestore/Auth/Push), MySQL, PostgreSQL |
+| **Ferramentas** | Git, Docker, Linux (Bash), Metodologias Ágeis |
+
+---
+
+## 💼 Projetos de Impacto
+
+#### 🚜 **Setor AgTech (Secagem Digital)**
+* **Smart Secagem (IoT):** Liderança técnica no MVP de monitoramento de silos, integrando Hardware + Django + Flutter.
+* **G-Grãos:** Sistema de classificação vegetal com automação de laudos técnicos (Padrão MAPA).
+
+#### 🚕 **Mobilidade & Gestão**
+* **Rondo Move:** App de mobilidade com rastreamento em tempo real e integração governamental (SETTAT).
+* **Gestão Paroquial:** Sistema multiplataforma (Web/Desktop) para gestão financeira e dízimos.
+
+---
+
+## 🧪 Portfólio Android Nativo
+* **Classifique Soja:** Cálculos de grãos e geração de laudos em PDF.
+* **Smart Flexões:** Uso de sensores de proximidade para contagem automática.
+* **Meu Xodó Pet:** Engajamento via Push Notifications e Firebase.
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DionatanPO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanPO&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_LINK_WHATSAPP_AQUI)
+
+---
+*“A tecnologia deve ser o braço direito de quem produz.”*
